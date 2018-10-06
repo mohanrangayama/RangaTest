@@ -1,4 +1,4 @@
 #!/bin/bash
-E
-ecoo "This is a staging"
+echo "This is for dev branch"
+echo "This is a staging"
 echo "This is a settings file"
